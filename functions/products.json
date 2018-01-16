@@ -1,0 +1,32 @@
+{"product": [
+  {
+    "name": "VCC",
+    "sme": "Antonio Delgado",
+    "View reports": "http://www.vodafone.com/business/global-enterprise/customer-experience-solutions/contact-centre",
+    "Change routing": "http://www.vodafone.com/business/global-enterprise/customer-experience-solutions/professional-services",
+    "Change agents": "http://www.vodafone.com/business/our-partnerships/cisco",
+    "Finesse desktop": "https://www.cisco.com/c/en/us/products/customer-collaboration/finesse/index.html"
+  },
+  {
+    "name": "VONE-C",
+    "sme": "Sebastian Hernandez",
+    "Add agents": "https://www.cisco.com/c/en/us/support/docs/voice-unified-communications/unified-communications-manager-callmanager/40564-config-icd-agent-svs.html",
+    "Add devices": "https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/cucm/compat/matrix/CMDP_BK_CCBDA741_00_cucm-device-package-compatibility-matrix/CMDP_BK_CCBDA741_00_cucm-device-package-compatibility-matrix_chapter_00.html",
+    "Add hunt group": "https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/cucm/admin/8_6_1/ccmcfg/bccm-861-cm/b03htlst.html"
+  },
+  {
+    "name": "VONE-M",
+    "sme": "Iqbal Nadiali",
+    "Skype integration": "https://www.skype.com/en/features/skype-outlook-integration/",
+    "Add conference": "https://www.skype.com/en/features/group-calls/",
+    "Outbound calls": "https://www.skype.com/en/features/call-phones-and-mobiles/"
+  },
+  {
+    "name": "VMA",
+    "sme": "Martin Aberg",
+    "Start conference": "https://www.vodafone.co.uk/business/solutions/collaboration-and-productivity/video-services/index.htm",
+    "Video browser support": "http://www.videocentric.co.uk/thesolution/mobilize-my-workforce/",
+    "Mobile app support": "http://www.videocentric.co.uk/thesolution/mobilize-my-workforce/"
+  }  
+  ]
+}
